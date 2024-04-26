@@ -1,0 +1,36 @@
+body {background-color:tan;}
+h1{color:green;}
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+h1 {
+    color: grey;
+    font-family: verdana;
+}
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+html{
+    align-items: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+    height: 100vh; /* Full height of viewport */
+  }
+  
+  .maindiv {
+    text-align: center; /* Center the content inside the container */
+  }
+  
+
